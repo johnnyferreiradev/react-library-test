@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.a-especific-name {
+  font-size: 20px;
+  color: red;
+  @apply underline;
+}

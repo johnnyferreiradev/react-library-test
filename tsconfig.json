@@ -19,11 +19,11 @@
      "declarationMap": true,
     "baseUrl": ".",
      "paths": {
-      "react-library-test": [ "src/component/index.ts" ]
+      "react-library-test": [ "src/components/index.ts" ]
     },
     "typeRoots": [
       "node_modules/@types",
-      "src/component/index.d.ts"
+      "src/components/index.d.ts"
     ]
   },
   "include": ["src"],
